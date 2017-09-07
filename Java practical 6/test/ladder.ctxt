@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ ladder()
+comment1.params=height\ width\ safe\ material
+comment1.target=void\ ladder(int,\ int,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getHeight()
+comment3.params=
+comment3.target=int\ getWidth()
+comment4.params=
+comment4.target=boolean\ getSafe()
+comment5.params=
+comment5.target=java.lang.String\ getMaterial()
+comment6.params=
+comment6.target=int\ totalHeight()
+numComments=7

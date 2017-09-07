@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=Item(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Item\r\n
+comment1.params=d\ w
+comment1.target=Item(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ Items\ with\ nonzero\ weight\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDesc()
+comment2.text=\r\n\ getDesc\:\ accessor\ for\ description\r\n\ \r\n
+comment3.params=
+comment3.target=int\ getWeight()
+comment3.text=\r\n\ getWeight\:\ accessor\ for\ weight\r\n\ \r\n
+numComments=4

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=makeOfCar\ model\ engineSize
+comment0.target=modelCar(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ modelCar\r\n
+numComments=1

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=stake\ whichtwelve
+comment0.target=int\ whichTwelve(int,\ int)
+comment0.text=\r\n\ A\ type\ of\ game\ that\ is\ played\ within\ the\ casino\r\n\ Choose\ between\ 3\ values\r\n
+comment1.params=stake\ number
+comment1.target=int\ zeroThirtySix(int,\ int)
+comment1.text=\r\n\ A\ type\ of\ game\ that\ is\ played\ within\ the\ casino\r\n\ Choose\ between\ o-36\r\n
+comment2.params=stake\ whichcolumn
+comment2.target=int\ WhichColumn(int,\ int)
+comment2.text=\r\n\ A\ type\ of\ game\ that\ is\ played\ within\ the\ casino\r\n\ Choose\ between\ 4\ columns\r\n
+numComments=3

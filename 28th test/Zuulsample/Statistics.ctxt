@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Statistics()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Statistics\r\n
+comment1.params=command
+comment1.target=boolean\ addCount(Command)
+comment2.params=
+comment2.target=void\ showAll()
+comment3.params=y
+comment3.target=int\ sampleMethod(int)
+comment3.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=stake\ whichtwelve
+comment0.target=int\ whichtwelve(int,\ int)
+comment1.params=stake\ number
+comment1.target=int\ zerothirtysix(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ zerothirtysix\r\n
+comment2.params=stake\ value
+comment2.target=int\ OddOrEven(int,\ java.lang.String)
+comment3.params=stake\ colour
+comment3.target=int\ RedOrBlack(int,\ java.lang.String)
+comment4.params=stake\ whichcolumn
+comment4.target=int\ WhichColumn(int,\ int)
+numComments=5

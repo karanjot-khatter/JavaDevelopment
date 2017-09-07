@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Register()
+comment0.text=\r\n\ Perform\ any\ initialization\ that\ is\ required\ for\ the\r\n\ student\ list\r\n
+comment1.params=stud
+comment1.target=void\ storeStudent(Student)
+comment1.text=\r\n\ Store\ a\ new\ student\ into\ the\ student\ list.\r\n\ @param\ student\ The\ student\ to\ be\ stored.\r\n
+comment2.params=
+comment2.target=int\ numberOfStudents()
+comment2.text=\r\n\ @return\ The\ number\ of\ students\ currently\ in\ the\ list.\r\n
+comment3.params=ind
+comment3.target=void\ absent(int)
+comment3.text=\r\n\ \r\n\ Remove\ from\ the\ list\ the\ student\ at\ index\ position\ "ind"\r\n\ \r\n
+comment4.params=ind
+comment4.target=void\ listStudentNames(int)
+comment4.text=\r\n\ List\ the\ names\ of\ all\ students\ in\ the\ list.\r\n
+comment5.params=ind
+comment5.target=boolean\ allatleast100(int)
+comment5.text=\r\n\ Report\ whether\ all\ students\ have\ a\ credit\ count\ of\ at\ least\ 100\r\n\ return\ true\ if\ all\ students\ have\ a\ credit\ count\ of\ at\ least\ 100\r\n\ otherwise\ return\ false\r\n
+numComments=6
